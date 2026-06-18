@@ -1,0 +1,13 @@
+{
+  "name": "kindred-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "kindred-bot.js",
+  "scripts": {
+    "start": "node kindred-bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-fetch": "^3.3.2"
+  }
+}
